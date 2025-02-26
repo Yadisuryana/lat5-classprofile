@@ -16,7 +16,7 @@ const Navbar = () => {
     { name: "Layanan", path: "/latihan5/layanan" },
     { name: "Kontak", path: "/latihan5/kontak" },
     { name: "Profile", path: "/latihan5/profile" },
-    { name: "Profil Kelas", path: "/latihan5/profilekelas" }, // Perbaikan path
+    { name: "Profil Kelas", path: "/latihan5/profilkelas" }, // Perbaikan path
   ];
 
   return (
